@@ -11,7 +11,7 @@ export const DATA = {
     "Creative UI/UX Designer with expertise in crafting intuitive and visually engaging digital experiences that enhance user satisfaction.",
   summary:
     "I can specify the industries I have experience in, such as tech, e-commerce, restaurant menu , mobile app or any other relevant sectors.I may discuss the ability to adapt the design skills to different industries and user needs.I usually emphasize their core skills, which may include user research, wireframing, prototyping, user testing, and proficiency with design tools like Adobe XD, Figma During my internship at CODSOFT, I had the opportunity to work on a significant project that greatly enhanced my UI/UX design skills.",
-  avatarUrl: "sujal.jpg/",
+  avatarUrl: "/sujal.jpg",
   skills: [
     "Adobe XD",
     "Figma",
